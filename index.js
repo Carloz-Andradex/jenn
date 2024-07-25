@@ -9,7 +9,7 @@ const yesBtn = document.querySelector('#yesBtn');
 //ESCRIBIR LO QUE PASARA EN CASO DE QUE SÍ
 yesBtn.addEventListener('click', function(){
     alert('Siempre supe que aceptarias'); //Puedes mandar los mensajes que quieras
-    location.href = 'https://www.youtube.com/watch?v=0uZdFmbGGaU'; //Cambiar el URL en YouTube de la canción que quieras 
+    location.href = 'https://www.youtube.com/watch?v=zLX_GcXt2pI'; //Cambiar el URL en YouTube de la canción que quieras 
 });
 
 const noBtn = document.querySelector('#noBtn');
