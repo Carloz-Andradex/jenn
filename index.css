@@ -12,7 +12,7 @@ principal.*/
 }
 
 /*Cuerpo general del documento*/
-.container{
+.tupper{
     background: pink; /*Cambiar el color de todo el fondo*/
     width: 100vw;
     height: 100vh;
