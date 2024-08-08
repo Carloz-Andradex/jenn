@@ -8,7 +8,7 @@ const yesBtn = document.querySelector('#yesBtn');
 
 //ESCRIBIR LO QUE PASARA EN CASO DE QUE SÍ
 yesBtn.addEventListener('click', function(){
-    alert('Si'); //Puedes mandar los mensajes que quieras
+    alert('Ten por bonita'); //Puedes mandar los mensajes que quieras
     location.href = 'https://www.youtube.com/watch?v=aSjflT_J0Xo'; //Cambiar el URL en YouTube de la canción que quieras 
 });
 
