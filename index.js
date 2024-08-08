@@ -8,8 +8,8 @@ const yesBtn = document.querySelector('#yesBtn');
 
 //ESCRIBIR LO QUE PASARA EN CASO DE QUE SÍ
 yesBtn.addEventListener('click', function(){
-    alert('Siempre supe que aceptarias'); //Puedes mandar los mensajes que quieras
-    location.href = 'https://www.youtube.com/watch?v=zLX_GcXt2pI'; //Cambiar el URL en YouTube de la canción que quieras 
+    alert('Si'); //Puedes mandar los mensajes que quieras
+    location.href = 'https://www.youtube.com/watch?v=aSjflT_J0Xo'; //Cambiar el URL en YouTube de la canción que quieras 
 });
 
 const noBtn = document.querySelector('#noBtn');
