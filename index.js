@@ -7,8 +7,8 @@ const yesBtn = document.querySelector('#yesBtn');
 
 // Comportamiento del botón "Sí"
 yesBtn.addEventListener('click', function () {
-    alert('Ten por bonita'); // Puedes mandar los mensajes que quieras
-    location.href = 'https://www.youtube.com/watch?v=aSjflT_J0Xo'; // Cambiar el URL en YouTube de la canción que quieras
+    alert('haber si esto te alegra un poco'); // Puedes mandar los mensajes que quieras
+    location.href = 'https://youtu.be/AMTAQ-AJS4Y?si=URVBzIC71eh57rE0'; // Cambiar el URL en YouTube de la canción que quieras
 });
 
 const noBtn = document.querySelector('#noBtn');
